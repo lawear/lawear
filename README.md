@@ -1,8 +1,6 @@
 # Hello, My name is LAWRENCE
 
-
-[Brief Introduction - Remove this afterwards]
-
+<a href="https://linkedin.com"><img 
 Cloud Computing Enthusiast with focus on AWS services. I graduated with a bachelor's in Computer Information System from CUNY Lehman College.
 
 ## Objective
