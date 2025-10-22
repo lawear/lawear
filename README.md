@@ -23,10 +23,10 @@ I enjoy building and documenting **home labs** that simulate real-world IT envir
 ---
 
 ## 🧰 Tech Stack
-`AWS` · `Active Directory` · `Windows Server` · `M365` · `Azure AD` · `Intune` · `Networking` · `PowerShell` · `Linux` · `VirtualBox` · `VMware`
+`AWS` · `Active Directory` · `Windows Server` · `M365` · `Azure AD` · `Intune` · `Networking` · `System Administration` · `Linux` · `DNS` · `VMware`
 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/<your-linkedin>)  
-- 📧 Email: <your-email-here>
+- 💼 [LinkedIn](https://www.linkedin.com/in/lawrencemensah)  
+
