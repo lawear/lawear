@@ -18,7 +18,7 @@ I enjoy building and documenting **home labs** that simulate real-world IT envir
 |----------|--------------|---------------|
 | Active Directory Virtualization Lab | Deployed a virtualized AD environment using Windows Server 2022 | AD DS, DNS, GPO |
 | AWS Bastion Host Lab | Built a secure Bastion Host Setup to manage private network servers in AWS  | AWS, EC2, VPC, Security Groups, Route Tables, Internet Gateway, SSH |
-| Microsoft 365 Admin Lab | Configured M365 users, roles, and licenses | M365, Azure AD, Intune |
+| Microsoft 365 Tenant Management Lab | Configured M365 users, roles, and licenses | M365, Azure AD, Intune |
 
 ---
 
