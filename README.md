@@ -93,3 +93,46 @@ Contact Info: Ensure your LinkedIn and portfolio/email are easily clickable.
 
 Contribution Graph: If you work mostly on private repos, go to Profile Settings -> Contribution Settings and turn on "Private contributions" so your graph shows your actual work volume.
 
+
+
+This is a fantastic foundation! It’s clean, readable, and—most importantly—it highlights your transition perfectly. By focusing on "Labs," you are showing recruiters that you have the initiative to learn what you haven't yet done professionally.
+
+Here are a few specific tips to level up this page from "Good" to "Hired":
+
+1. Link the Project Names
+Right now, your projects are listed in a table, but they aren't clickable.
+
+Action: Turn the project titles in your table into hyperlinks that lead directly to the repository or a detailed documentation folder for that lab.
+
+Why: Recruiters are busy. If they have to click "Repositories" and hunt for your "Active Directory" code, they might skip it.
+
+2. Add "Evidence" to your Labs
+Since Cloud/SysAdmin work is often "invisible" (no UI), documentation is your best friend. In each project repo, make sure you include:
+
+A Network Diagram: Use a tool like Lucidchart or Draw.io to show how your AWS VPC or AD Lab is structured.
+
+Screenshots: Show the Active Directory Users & Computers (ADUC) screen with your created OUs, or the AWS Console showing your running instances.
+
+3. Visual Tech Stack
+Instead of a plain text list for your Tech Stack, use Badges. It makes the page more "scannable" and professional.
+
+Example: Instead of AWS, use: ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+You can generate these easily at Shields.io.
+
+4. Highlight the "Transition"
+In your Professional Summary, you mention transitioning. You can make this even stronger by adding a "Learning Path" or "Current Focus" section.
+
+Currently Learning: HashiCorp Terraform (Infrastructure as Code) & Python for Automation.
+
+This signals to employers that you are not just waiting for a role, but actively moving toward DevOps or Cloud Engineering.
+
+5. Small Formatting Tweak
+The spacing in your table looks a bit tight. You can add a "Link" column to your table or just make the Project names bolded links.
+
+Suggested Refinement for your "Projects" Table:
+Project	Key Deliverables	Tech
+Active Directory Lab	User Provisioning, GPO Lockdown, DNS Config	Win Server '22, VMWare
+AWS Bastion Host	Secure VPC, Private Subnets, IGW Routing	EC2, VPC, Security Groups
+M365 Tenant Lab	RBAC Setup, Intune Device Enrollment	Azure AD, Intune
+Would you like me to help you write a "README.md" template for one of those specific labs so the documentation looks as professional as the landing page?
