@@ -1,138 +1,33 @@
-## You found me! I'm Lawrence 👋
+# Hi, I'm Lawrence 👋 
+### Desktop Support Specialist | Transitioning to Systems & Cloud Administration
 
-I'm also a  **Desktop Support Specialist** transitioning into **Cloud & Systems Administration**, with hands-on experience in **Active Directory, AWS, and Microsoft 365**.  
-I enjoy building and documenting **home labs** that simulate real-world IT environments.
+I am an IT professional specializing in seamless technology operations within mission-critical environments. Currently, I support **5,000+ users** in the healthcare sector, maintaining a **99% SLA** and reducing downtime by **20%** through root-cause analysis.
 
----
-
-## 💼 Professional Summary
-- 🧰 Experienced in IT operations, end-user support, and system configuration
--  AWS Certified Cloud Practitioner
-- 🧑‍💻 Skilled in Active Directory, M365 Admin Center,MDM and Customer Service.
-- ⚙️ Currently expanding my expertise through self-hosted labs and AWS projects
+I build **Enterprise-grade Home Labs** to master IAM provisioning, M365 architecture, and secure network routing.
 
 ---
 
-## 🚀 Projects & Labs
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-| Active Directory Virtualization Lab | AD DS Deployment with Integrated NAT Routing and Network Isolation. | AD DS, DNS, GPO,Powershell,NAT Routing |
-| AWS Bastion Host Lab | Built a secure Bastion Host Setup to manage private network servers in AWS  | AWS, EC2, VPC, Security Groups, Route Tables, Internet Gateway, SSH |
-| Microsoft 365 Tenant Management Lab | Configured M365 users, roles, and licenses | M365, Azure AD, Intune |
+## 💼 Professional Impact
+- 🏥 **Scale:** Supporting 5,000+ healthcare users across Active Directory, M365, and MDM.
+- 📉 **Efficiency:** Reduced system downtime by 15–20% via proactive troubleshooting.
+- 🔐 **Security:** Handling VPN, MDM (Intune), and secure identity management.
+- 🎓 **Certified:** AWS Certified Cloud Practitioner.
+
+---
+
+## 🚀 Featured Infrastructure Labs
+| Project | Core Objective | Key Technologies |
+| :--- | :--- | :--- |
+| [**Active Directory Lab**](link) | [**View Topology**](screenshots/larry.png) - Dual-Homed NAT & Network Isolation | Win Server '22, DNS, RRAS |
+| [**AWS Bastion Host**](link) | Secure management of private subnet instances | VPC, EC2, Security Groups |
+| [**M365 Tenant Lab**](link) | Enterprise IAM, RBAC, and Intune Enrollment | Entra ID, Intune, M365 |
 
 ---
 
 ## 🧰 Tech Stack
-`AWS` · `Active Directory` · `Windows Server` · `M365` · `Azure AD` · `Intune` · `Networking` · `System Administration` · `Linux` · `DNS` · `VMware`
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft-365&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-444444?style=flat&logo=wireshark&logoColor=white)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/lawrencemensah)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-             GEM
-  To give you the best advice, I’d need to see the link or a screenshot of your profile. However, based on current industry standards for 2026, here is a checklist of the most effective ways to optimize your GitHub "landing page" (Profile README) to stand out to recruiters and collaborators.
-
-1. The "Special Repo" (Profile README)
-If you haven't already, create a repository with the exact same name as your username (e.g., github.com/yourname/yourname). The README.md in this repo becomes your landing page.
-
-The 30-Second Rule: A visitor should know who you are, what you build, and your primary tech stack within 30 seconds.
-
-Pro Tip: Use a professional but friendly Header Image or a "Hi, I'm [Name]" banner created in Canva or Figma to add immediate visual polish.
-
-2. High-Impact Pinned Repositories
-Don’t just let GitHub show your most recent work. Manually Pin 4–6 repositories that demonstrate:
-
-Variety: One large "hero" project, one open-source contribution, and one smaller technical experiment.
-
-Quality over Quantity: A repo with a beautiful README and 0 stars is better than a messy repo with 10 stars.
-
-Active Maintenance: Ensure the pinned projects don't have "Work in Progress" or "TODO" as the first line of their description.
-
-3. Visual "Social Proof" (Dynamic Stats)
-Use tools like GitHub Readme Stats to embed live cards.
-
-Top Languages Card: Shows your proficiency at a glance.
-
-Streak/Commit Graph: Shows consistency (but don't stress if it's not all green; quality of code matters more than volume).
-
-Tech Stack Badges: Use Shields.io to create clean badges for your tools (e.g., React, Python, AWS, Docker).
-
-4. Optimize Your Project READMEs
-When a user clicks from your landing page into a project, they should see:
-
-The "Why": A 1-sentence explanation of the problem this code solves.
-
-Visuals: A GIF or screenshot of the app in action. If it's a CLI tool, show a terminal recording (e.g., using Asciinema).
-
-One-Step Setup: Clear "How to Run" instructions. If it takes 20 minutes to set up your project, most recruiters will skip it.
-
-5. Professionalism "Checklist"
-Bio: Keep it punchy. "Fullstack Dev | Building AI-driven tools | ☕ Coffee lover" is better than a paragraph.
-
-Contact Info: Ensure your LinkedIn and portfolio/email are easily clickable.
-
-Contribution Graph: If you work mostly on private repos, go to Profile Settings -> Contribution Settings and turn on "Private contributions" so your graph shows your actual work volume.
-
-
-
-This is a fantastic foundation! It’s clean, readable, and—most importantly—it highlights your transition perfectly. By focusing on "Labs," you are showing recruiters that you have the initiative to learn what you haven't yet done professionally.
-
-Here are a few specific tips to level up this page from "Good" to "Hired":
-
-1. Link the Project Names
-Right now, your projects are listed in a table, but they aren't clickable.
-
-Action: Turn the project titles in your table into hyperlinks that lead directly to the repository or a detailed documentation folder for that lab.
-
-Why: Recruiters are busy. If they have to click "Repositories" and hunt for your "Active Directory" code, they might skip it.
-
-2. Add "Evidence" to your Labs
-Since Cloud/SysAdmin work is often "invisible" (no UI), documentation is your best friend. In each project repo, make sure you include:
-
-A Network Diagram: Use a tool like Lucidchart or Draw.io to show how your AWS VPC or AD Lab is structured.
-
-Screenshots: Show the Active Directory Users & Computers (ADUC) screen with your created OUs, or the AWS Console showing your running instances.
-
-3. Visual Tech Stack
-Instead of a plain text list for your Tech Stack, use Badges. It makes the page more "scannable" and professional.
-
-Example: Instead of AWS, use: ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-
-You can generate these easily at Shields.io.
-
-4. Highlight the "Transition"
-In your Professional Summary, you mention transitioning. You can make this even stronger by adding a "Learning Path" or "Current Focus" section.
-
-Currently Learning: HashiCorp Terraform (Infrastructure as Code) & Python for Automation.
-
-This signals to employers that you are not just waiting for a role, but actively moving toward DevOps or Cloud Engineering.
-
-5. Small Formatting Tweak
-The spacing in your table looks a bit tight. You can add a "Link" column to your table or just make the Project names bolded links.
-
-Suggested Refinement for your "Projects" Table:
-Project	Key Deliverables	Tech
-Active Directory Lab	User Provisioning, GPO Lockdown, DNS Config	Win Server '22, VMWare
-AWS Bastion Host	Secure VPC, Private Subnets, IGW Routing	EC2, VPC, Security Groups
-M365 Tenant Lab	RBAC Setup, Intune Device Enrollment	Azure AD, Intune
-Would you like me to help you write a "README.md" template for one of those specific labs so the documentation looks as professional as the landing page?
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lawrencemensah)
