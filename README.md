@@ -1,5 +1,5 @@
-# Hi, I'm Lawrence 👋 
-### Desktop Support Specialist | Transitioning to Systems & Cloud Administration
+# Hi, I'm Lawrence 
+### End User Support II
 
 I am an IT professional specializing in seamless technology operations within mission-critical environments. Currently, I support **5,000+ users** in the healthcare sector, maintaining a **99% SLA** and reducing downtime by **20%** through root-cause analysis.
 
@@ -16,12 +16,12 @@ I build **Enterprise-grade Home Labs** to master IAM provisioning, M365 architec
 ---
 
 ## 🚀 Featured Infrastructure Labs
-| Project | Core Objective | Key Technologies |
-| :--- | :--- | :--- |
-| [**Active Directory Lab**](link) | [**View Topology**](screenshots/larry.png) - Dual-Homed NAT & Network Isolation | Win Server '22, DNS, RRAS |
-| [**AWS Bastion Host**](link) | Secure management of private subnet instances | VPC, EC2, Security Groups |
-| [**M365 Tenant Lab**](link) | Enterprise IAM, RBAC, and Intune Enrollment | Entra ID, Intune, M365 |
-
+| Project | Core Objective | Tech | Status |
+| :--- | :--- | :--- | :--- |
+| [**Active Directory Lab**](link) | [**View Topology**](screenshots/larry.png) - NAT & Isolation | Win Server '22,AD DS,DNS,DHCP,RRAS | ✅ Completed(Next Step:Sync to ENTRA_ID) |
+| [**AWS Bastion Host**](link) | Secure management of private subnet instances | VPC, EC2, SG,NACls, IGW, Route53 | ✅ Completed(Preparing Documentation |
+| [**M365 Tenant Lab**](link) | Enterprise IAM, RBAC, and Intune Enrollment | Entra ID, Intune | 🏗️ In Progress |
+| [**Terraform IAC**](link) | Automated Infrastructure Provisioning | Terraform, AWS | 📅 Planned |
 ---
 
 ## 🧰 Tech Stack
