@@ -27,7 +27,7 @@ I build **Enterprise-grade Home Labs** to master IAM provisioning, GPO automatio
 ## 🚀 Featured Infrastructure Labs
 | Project | Core Objective | Tech | Status |
 | :--- | :--- | :--- | :--- |
-| [**Secure AD DS Lab**](https://github.com/your-repo-link) | **Enterprise IAM & GPO Automation:** NAT Gateway routing, custom OU hierarchy, and centralized policy enforcement (Drive Mapping/Security). | Win Server '22, AD DS, GPO/GPP, RRAS, DHCP | ✅ Completed |
+| [**ROAD TO HYBRID CLOUD**](https://github.com/lawear/ROAD-TO-HYBRID-CLOUD) | **Enterprise IAM & GPO Automation:** NAT Gateway routing, custom OU hierarchy, and centralized policy enforcement (Drive Mapping/Security). | Win Server '22, AD DS, GPO/GPP, RRAS, DHCP | ✅ Completed |
 | [**AWS Bastion Host**](link) | Secure management of private subnet instances | VPC, EC2, SG, NACLs, IGW | ✅ Completed |
 | [**M365 Tenant Lab**](link) | Enterprise IAM, RBAC, and Intune Enrollment | Entra ID, Intune | 🏗️ In Progress |
 | [**Terraform IAC**](link) | Automated Infrastructure Provisioning | Terraform, AWS | 📅 Planned |
