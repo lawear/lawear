@@ -2,7 +2,7 @@
 # Hi, I'm Lawrence 🚀
 ### Infrastructure & Cloud Identity | IT Specialist II
 
-I am an IT professional specializing in seamless technology operations within mission-critical environments. Currently, I support **5,000+ users at Deloitte**, maintaining a **99% SLA** and reducing downtime by **20%** through proactive root-cause analysis.
+Security-conscious Support Analyst with 5+ years of experience in enterprise healthcare and consulting. I specialize in keeping large-scale operations running by resolving complex hardware, software, and networking issues. Recently earned CompTIA Security+ and AWS Cloud Practitioner certifications to support secure cloud and network operations. Known for hitting 99% SLA targets and maintaining a high FCR rate while delivering a white glove service standard while also reducing downtime by **20%** through proactive root-cause analysis.
 
 Beyond the office, I am a hands-on lab builder. My work focuses on the intersection of **Cloud Architecture**, **Infrastructure Security**, and **Identity Management**. 
 
